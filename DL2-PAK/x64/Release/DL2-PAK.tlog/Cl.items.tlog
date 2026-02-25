@@ -1,6 +1,0 @@
-C:\DevTools\DL2-PAK\DL2-PAK\dllmain.cpp;C:\DevTools\DL2-PAK\DL2-PAK\x64\Release\dllmain.obj
-C:\DevTools\DL2-PAK\DL2-PAK\pch.cpp;C:\DevTools\DL2-PAK\DL2-PAK\x64\Release\pch.obj
-C:\DevTools\DL2-PAK\DL2-PAK\src\buffer.c;C:\DevTools\DL2-PAK\DL2-PAK\x64\Release\buffer.obj
-C:\DevTools\DL2-PAK\DL2-PAK\src\hde\hde64.c;C:\DevTools\DL2-PAK\DL2-PAK\x64\Release\hde64.obj
-C:\DevTools\DL2-PAK\DL2-PAK\src\hook.c;C:\DevTools\DL2-PAK\DL2-PAK\x64\Release\hook.obj
-C:\DevTools\DL2-PAK\DL2-PAK\src\trampoline.c;C:\DevTools\DL2-PAK\DL2-PAK\x64\Release\trampoline.obj
