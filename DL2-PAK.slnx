@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DL2-PAK/DL2-PAK.vcxproj" Id="a291056c-0fb3-4917-bfbc-c96fc59fec0f" />
+</Solution>
